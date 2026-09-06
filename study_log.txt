@@ -1,0 +1,5 @@
+Web Design|HTML|Monday|25
+Mathematics|Algebra|Tuesday|45
+Computer Skills|Word|Wednesday|60
+Web Design|CSS|Thursday|100
+Mathematics|Equations|Friday|35
